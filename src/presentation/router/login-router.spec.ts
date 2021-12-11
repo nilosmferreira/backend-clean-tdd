@@ -35,7 +35,7 @@ describe('Rota de login', () => {
     const sut = new LoginRouter();
     const httpRequest: HttpRequest = {
       body: {
-        email: 'any_password'
+        email: 'any_email@email.com'
       }
     }
     const httpResponse = sut.route(httpRequest)

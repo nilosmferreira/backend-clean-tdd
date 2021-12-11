@@ -19,10 +19,5 @@
   "scripts": {
     "test": "jest",
     "test:staged": "jest"
-  },
-  "lint-staged": {
-    "*": [
-      "yarn test:staged"
-    ]
   }
 }
