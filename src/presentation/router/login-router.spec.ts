@@ -1,6 +1,7 @@
 type HttpRequest = {
   body: {
-    password: string
+    password?: string,
+    email?: string
   }
 }
 type HttpResponse = {
