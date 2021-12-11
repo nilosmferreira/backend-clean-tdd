@@ -1,0 +1,9 @@
+{
+  "name": "backend-estudo",
+  "version": "0.0.1",
+  "description": "Back-end de estudo",
+  "main": "src/index.ts",
+  "repository": "git@github.com:nilosmferreira/backend-clean-tdd.git",
+  "author": "Nilo Ferreira <nsmf.gnf@gmail.com>",
+  "license": "MIT"
+}
